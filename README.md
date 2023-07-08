@@ -1,7 +1,7 @@
 # Screenshots
 
 ![Screenshot 1](https://i.ibb.co/5Bmnhmb/SCR-20230708-tyru.png)
-![Screenshot 2](https://i.ibb.co/3rLP1xF/SCR-20230708-ubdb.png)
+![Screenshot 2](https://i.ibb.co/gZ6Wk8w/SCR-20230708-udje.png)
 
 ## Getting Started
 
