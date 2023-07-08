@@ -161,8 +161,7 @@ class _HomePageState extends State<HomePage> {
     String messageText = messageController.text.replaceAll(' ', '%20');
     if (_validatePhoneNumber(phoneNumber)) {
       String url = 'https://wa.me/$phoneNumber?text=$messageText';
-      debugPrint(url);
-      // await launchWhatsAppUrl(url);
+      await launchWhatsAppUrl(url);
     } else {
       setState(() {
         phoneNumberError = true;
